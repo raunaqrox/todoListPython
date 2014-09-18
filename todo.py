@@ -2,7 +2,7 @@ def main():
 	list = []
 	top = -1
 	while 1 :
-		print "\n1.Add 2.Remove 3.Display 4.Sort by name\n"
+		print "\n1.Add 2.Remove 3.Display 4.Sort [by name]\n"
 		option = raw_input()
 		if option == '':
 			exit()
